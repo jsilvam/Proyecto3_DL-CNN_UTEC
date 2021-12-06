@@ -3,6 +3,5 @@ Proyecto #3: Deep Learning CNN Maestr´ıa en ciencia de la computación
 La carpeta Experimentos contiene:
  - Los experimentos para las propuestas de los modelos CNN
  - Experimentos para los modelos utilizando estrategias de regularización Batch Normalization, Dropout y Early Stopping.
-
  La carpeta Resultados contiene:
  - 
